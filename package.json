@@ -2,7 +2,7 @@
     "name": "power",
     "displayName": "Power",
     "description": "Power. The Theme for Powerful Programmers",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -17,5 +17,11 @@
                 "path": "./themes/Power.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NaseelNiyas/power"
+    },
+    "publisher": "TechHarvesting",
+    "icon": "images/logo.png"
 }
