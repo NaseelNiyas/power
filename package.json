@@ -1,8 +1,8 @@
 {
     "name": "power",
-    "displayName": "Power",
+    "displayName": "Power Theme",
     "description": "Power. The Theme for Powerful Programmers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
